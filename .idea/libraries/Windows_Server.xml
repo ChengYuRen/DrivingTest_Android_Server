@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Windows_Server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Windows_Server_jar/Windows_Server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
